@@ -1,1 +1,1 @@
-Write a script that deletes all the
+Write a script that deletes all 
