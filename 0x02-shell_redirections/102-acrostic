@@ -1,1 +1,2 @@
 #!/bin/bash
+Cut -b 1 | tr -d '\' | uniq
