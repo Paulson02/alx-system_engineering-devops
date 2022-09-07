@@ -1,2 +1,4 @@
 #!/bin/bash
-export School="BEST"
+export BEST=School
+
+Create a script that creates a new global variable.
