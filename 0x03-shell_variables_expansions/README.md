@@ -1,1 +1,2 @@
-Write a script that encodes and decodes text using the rot13
+
+Create a script that creates a new global variable
