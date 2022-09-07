@@ -1,2 +1,1 @@
-
-Create a script that creates a new global variable
+Write a shell script that adds the two numbers stored in the environment variables WATER and STIR and prints the result.
